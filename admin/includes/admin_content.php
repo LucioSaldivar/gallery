@@ -20,6 +20,10 @@
 //            $user->last_name = "Saldivar";
 //            $user->update();
 
+//            $user = new User;
+//            $user->username = "whatever";
+//            $user->save();
+
             ?>
             <ol class="breadcrumb">
                 <li>
