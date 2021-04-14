@@ -7,8 +7,18 @@
                 <small>Subheading</small>
             </h1>
             <?php
-            $found_user = User::find_user_by_id(2);
-            echo $found_user->username;
+//            $user = new User();
+//
+//            $user->username = "Example_username";
+//            $user->password ="Example_password";
+//            $user->first_name ="Manuel";
+//            $user->last_name ="Saldivar";
+//
+//            $user->create();
+
+//            $user = User::find_user_by_id(2);
+//            $user->last_name = "Saldivar";
+//            $user->update();
 
             ?>
             <ol class="breadcrumb">
