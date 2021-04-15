@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017633df-bf64-44a6-a397-0fe34913167c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin/delete_photo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/db_object.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/includes/photo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/edit_photo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/includes/admin_content.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/admin_content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/delete_photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/delete_photo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/db_object.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/db_object.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/includes/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/init.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/includes/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/includes/photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/includes/photo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/photos.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/photos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/upload.php" afterDir="false" />
     </list>
@@ -48,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Gallery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -75,7 +77,9 @@
       <workItem from="1618399501434" duration="615000" />
       <workItem from="1618400388276" duration="4472000" />
       <workItem from="1618408509648" duration="22381000" />
-      <workItem from="1618485184593" duration="8969000" />
+      <workItem from="1618485184593" duration="19145000" />
+      <workItem from="1618506954534" duration="297000" />
+      <workItem from="1618507303501" duration="35000" />
     </task>
     <servers />
   </component>

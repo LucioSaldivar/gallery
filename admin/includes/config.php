@@ -1,10 +1,11 @@
-<?php ob_start();
+<?php 
 
-$db['db_host'] = "localhost";
-$db['db_user'] = "manuel";
-$db['db_pass'] = "Ls156491;";
-$db['db_name'] = "gallery";
+// Database Connection Constants
 
-foreach($db as $key => $value){
-    define(strtoupper($key), $value);
-}
+define('DB_HOST','localhost');
+define('DB_USER','manuel');
+define('DB_PASS','Ls156491;');
+define('DB_NAME','gallery');
+
+
+ ?>
