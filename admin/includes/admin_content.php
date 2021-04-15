@@ -20,9 +20,15 @@
 //            $user->last_name = "Saldivar";
 //            $user->update();
 
-//            $user = new User;
-//            $user->username = "whatever";
+//            $user = new User();
+//            $user->username = "New User";
 //            $user->save();
+
+//            $photos = Photo::find_all();
+//            foreach ($photos as $photo) {
+//                echo $photo->title;
+//            }
+            echo INCLUDES_PATH;
 
             ?>
             <ol class="breadcrumb">
